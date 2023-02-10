@@ -7,8 +7,11 @@ A interface gráfica terá a seguinte forma:
 ![Tela relogio](telarelogio.jpg)
 
 O Botão Iniciar dá início no tempo do relógio.
+
 O Botão Parar para o tempo do relógio.
+
 O Botão Aumentar irá acelerar a velocidade do passar do tempo no relógio.
+
 O Botão Diminuir irá desacelerar a velocidade do passar do tempo no relógio.
 
 Você precisará de threads para que os relógios não parem e trabalhem separadamente.
