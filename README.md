@@ -15,4 +15,3 @@ O Botão Aumentar irá acelerar a velocidade do passar do tempo no relógio.
 O Botão Diminuir irá desacelerar a velocidade do passar do tempo no relógio.
 
 Você precisará de threads para que os relógios não parem e trabalhem separadamente.
-
